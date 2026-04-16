@@ -1,0 +1,10 @@
+{
+  "name": "external-ai-integration-sample-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal local backend for the Unreal external AI integration sample.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
