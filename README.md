@@ -5,7 +5,7 @@ NPC requests a decision from Claude, gets back mood and reply text, says it in d
 
 ## Demo Video
 
-https://1drv.ms/f/c/9d9f3cd318aeacbc/IgB9Ayrng5_6TpWXUGxpQBMrAach5-tBwzFf9fG-75oS9Oo?e=qqlv7x
+https://onedrive.live.com/?id=%2Fpersonal%2F9d9f3cd318aeacbc%2FDocuments%2FPortfolio%2F5%2E%20Unreal%2Dexternal%2DAI%2Dintegration%2Dsample&viewid=b61252c1%2D4089%2D4b48%2Dba1f%2D36bf4fdf86eb
 
 The player asks the NPC what her mood is. The NPC answers using a live response from Claude, generated based on her identity, location, base mood, and the current game context.
 
